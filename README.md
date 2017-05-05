@@ -331,6 +331,8 @@ _This section contains some rules to be followed while adding resources to this 
 ### MEMS/NEMS/Nanotechnology/BioEngineering
 #### MEMS/NEMS - Micro/Nano Electro Mechanical Systems
 ###### Books
+MicroSystem Design by Stephen D. Senturia (https://www.amazon.com/Microsystem-Design-Stephen-D-Senturia/dp/0792372468)
+Microfabrication (https://www.amazon.com/Fundamentals-Microfabrication-Nanotechnology-Third-Three/dp/0849331803)
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
